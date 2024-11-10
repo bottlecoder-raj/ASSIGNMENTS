@@ -1,10 +1,6 @@
 #include<stdio.h>
 void digit( int digit){
     switch(digit){
-       case 0:
-       printf("Zero ");
-       break;
-
        case 1:
        printf("One ");
        break;
