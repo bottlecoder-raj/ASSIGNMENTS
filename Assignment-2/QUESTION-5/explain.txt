@@ -1,0 +1,19 @@
+q]Explain the need of function prototype with example
+
+Function prototypes are essential for compile-time checking, allowing functions to be used before their
+definitions, which supports modular programming. This simple declaration avoids errors and improves code
+readability and organization, especially in large programs or complex systems.
+
+Syntax of Functions in C
+The syntax of function can be divided into 3 aspects:
+1. Function Declaration
+In a function declaration, one must provide the function name, its return type, and the
+number and type of its parameters. A function declaration tells the compiler that there is a
+function with the given name defined somewhere in the program.
+
+2. Function Definition
+The function definition consists of actual statements which are executed when the function is called
+
+3. Function Calls
+A function call is a statement that instructs the compiler to execute the function. We use the function name
+and parameters in the function call.
