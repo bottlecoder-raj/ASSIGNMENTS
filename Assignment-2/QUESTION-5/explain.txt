@@ -5,6 +5,8 @@ definitions, which supports modular programming. This simple declaration avoids 
 readability and organization, especially in large programs or complex systems.
 
 Syntax of Functions in C
+return_type function_name(parameter_type1, parameter_type2, ...);
+
 The syntax of function can be divided into 3 aspects:
 1. Function Declaration
 In a function declaration, one must provide the function name, its return type, and the
