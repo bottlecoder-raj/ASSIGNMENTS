@@ -1,14 +1,14 @@
-Array Definition
+1.Array Definition
 An array in programming is a data structure that can store a fixed-size sequence of elements of the same data type. 
 In C, arrays are used to store a collection of data elements such as integers, floats, or characters, all of the same type, 
 which can be accessed using an index. For example, an integer array can hold multiple integer values in a single variable name,
 making data management easier.
 
-Static Initialization of 1D Array
+2.Static Initialization of 1D Array
 In static initialization, array elements are initialized at the time of declaration. Values are explicitly provided in the program code.
 This is also sometimes referred to as compile-time initialization.
 
-Dynamic Initialization of 1D Array
+3.Dynamic Initialization of 1D Array
 In dynamic initialization, the array is declared first, and its values are assigned at runtime, often using user input or calculated values.
 This is also called runtime initialization because the values are set during program execution.
 
