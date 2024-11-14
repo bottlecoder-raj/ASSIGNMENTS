@@ -1,3 +1,6 @@
+//Write a program to store and display the name ,roll no,and fees of 100 students using structure.c
+//source:CHAT GPT
+
 #include <stdio.h>
 #define NUM_STUDENTS 100
 
