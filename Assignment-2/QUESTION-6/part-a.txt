@@ -1,0 +1,18 @@
+1. strcmp()
+Purpose: Compares two strings lexicographically (dictionary order).
+Return Value:
+Returns 0 if both strings are equal.
+Returns a positive integer if the first string is greater than the second.
+Returns a negative integer if the first string is less than the second.
+
+2. strcat()
+Purpose: Concatenates (joins) two strings. The content of the second string is added to the end of the first string.
+Return Value: Returns a pointer to the resulting string.
+
+3. strlwr()
+Purpose: Converts all uppercase letters in a string to lowercase.
+Return Value: Returns a pointer to the converted string.
+
+4. strlen()
+Purpose: Returns the length of a string (the number of characters before the null-terminator \0).
+Return Value: Returns an integer value of the string length.
